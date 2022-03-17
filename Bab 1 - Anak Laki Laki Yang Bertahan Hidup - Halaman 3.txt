@@ -14,6 +14,8 @@ SHOBRUN JAMIL
 
 
 
+
+
 KABURNYA ular boa pembelit membuat Harry menerima hukuman kurungan paling
 lama. Saat dia diizinkan keluar lemari lagi, liburan musim panas telah mulai dan kamera baru
 Dudley sudah rusak, pesawat terbang mainannya sudah menabrak sesuatu dan jatuh hancur,
@@ -24,6 +26,7 @@ Harry senang sekolah libur, tetapi dia tak bisa menghidari geng Dudley yang seti
 datang. Piers, Dennis, Malcolm, dan Gordon semuanya bertubuh besar dan bodoh, tetapi
 karena Dudley yang terbesar dan terbodoh, dia jadi pemimpin geng. Mereka semua senang
 ikut permainan yang disenangi Dudley : berburu-Harry.
+<<<<<<< HEAD
 
 "Ayo, cepat. Aku mau kau yang menggoreng daging asap."
 
